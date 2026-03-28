@@ -101,9 +101,6 @@ void loop() {
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1b66f899-ab7c-486b-a4b3-49c1fc1fcfb9" />
 
-## OUTPUT:
-
-
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
